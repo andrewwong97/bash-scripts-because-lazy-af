@@ -8,3 +8,6 @@
 <code>get.sh</code> - downloads latest linear algebra problem sets
 
 <code>upload.sh</code> - upload files to remote JHU server
+
+<code>generate.sh</code> - for final data structures assignment, generate random test data and test it
+
